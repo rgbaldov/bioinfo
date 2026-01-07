@@ -1,10 +1,10 @@
-# Biomedical Informatics  
+# Biomedical Informatics (BEBINFO & LBYBE3N)
 *Health Data Science • Clinical Data Systems • Analytics & AI*
 
 **Prepared by:**  
-
 [Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/renann-baldovino/)  
-**[Department of Manufacturing Engineering and Management, De La Salle University (DLSU)](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/)**  
+**[Department of Manufacturing Engineering and Management, De La Salle University (DLSU)](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/)**
+
 ## 📘 Course Description
 Biomedical Informatics explores the acquisition, representation, integration, analysis, and interpretation of **biomedical and health data** to support clinical and research decision-making. Topics include electronic health records (EHR), clinical data standards, data quality, predictive modeling, machine learning, and visualization in health contexts.
 
